@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-0-async_generator
+Module 0-async_generator
 """
 import asyncio
 import random
